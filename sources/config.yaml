@@ -1,0 +1,5 @@
+buildVariable: false
+removeOutlineOverlaps: false
+sources:
+  - DeliusUnicase-Bold.glyphs
+  - DeliusUnicase-Regular.glyphs
